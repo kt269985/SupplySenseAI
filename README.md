@@ -29,8 +29,7 @@ Small businesses across America — especially in rural or underserved areas —
 
 ## 👥 Team
 
-- **Krish Tadigotla** – Lead Developer, AI/ML, UI/UX, Outreach  
-- **Adhvaith Ananth** – UI/UX, Backend, Outreach
+- **Krish Tadigotla** – Lead Developer, AI/ML, UI/UX, Backend, Outreach 
 
 ---
 
